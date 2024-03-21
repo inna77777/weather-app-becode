@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+.container col {
+  height: 40vh;
+}
+
+.img {
+  min-height: 250px;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
